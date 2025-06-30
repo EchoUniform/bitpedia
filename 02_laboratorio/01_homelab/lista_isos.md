@@ -35,6 +35,12 @@ La selección está pensada como referencia general para cualquier persona inter
 | [Windows 11](https://www.microsoft.com/es-es/windows/windows-11)  | 24H2 | Permite practicar la administración, personalización y pruebas de [sistemas](https://es.wikipedia.org/wiki/Sistema_inform%C3%A1tico) de escritorio [Windows](https://es.wikipedia.org/wiki/Microsoft_Windows). Útil para simular entornos de [usuario](https://es.wikipedia.org/wiki/Usuario_(inform%C3%A1tica)) final. |
 | [Windows Server](https://www.microsoft.com/es-es/windows-server) | 2025 | Fundamental para aprender sobre servicios empresariales de [Microsoft](https://www.microsoft.com/es-es/), como [Active Directory](https://es.wikipedia.org/wiki/Active_Directory), [Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview?pivots=windows-server) y gestión de [redes](https://es.wikipedia.org/wiki/Red_de_computadoras) [Windows](https://es.wikipedia.org/wiki/Microsoft_Windows). |
 
+### ISOs complementarias para Windows
+
+| Nombre | Versión | Descripción |
+| --- | :---: | --- |
+| [Windows VirtIO Drivers](https://pve.proxmox.com/wiki/Windows_VirtIO_Drivers) | 0.1.271-1 | Imagen ISO con [drivers](https://es.wikipedia.org/wiki/Controlador_de_dispositivo) VirtIO para [Windows](https://es.wikipedia.org/wiki/Microsoft_Windows), esenciales para el correcto funcionamiento de dispositivos virtualizados (como discos y adaptadores de red) en entornos KVM/QEMU. Mejoran notablemente el rendimiento y la compatibilidad. |
+
 ## Entornos de red
 
 | Sistema | Versión | Utilidad |
