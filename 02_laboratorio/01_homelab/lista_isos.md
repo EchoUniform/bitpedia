@@ -26,7 +26,7 @@ La selección está pensada como referencia general para cualquier persona inter
 | --- | :---: | --- |
 | [Alpine Linux](https://www.alpinelinux.org/) | 3.22 | Ideal para aprender sobre sistemas [Linux](https://es.wikipedia.org/wiki/GNU/Linux) ultra-ligeros y optimizados para [contenedores](https://es.wikipedia.org/wiki/Contenedorizaci%C3%B3n_(inform%C3%A1tica)) y [máquinas virtuales](https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n). Útil para experimentar con [sistemas](https://es.wikipedia.org/wiki/Sistema_inform%C3%A1tico) minimalistas. |
 | [Kali Linux](https://www.kali.org/) | 2025.2 | Pensada para prácticas de [ciberseguridad](https://es.wikipedia.org/wiki/Seguridad_inform%C3%A1tica), [auditoría](https://es.wikipedia.org/wiki/Auditor%C3%ADa_inform%C3%A1tica) y [análisis forense](https://es.wikipedia.org/wiki/An%C3%A1lisis_forense_digital). Excelente para aprender técnicas de [pentesting](https://es.wikipedia.org/wiki/Examen_de_penetraci%C3%B3n) y [seguridad informática](https://es.wikipedia.org/wiki/Seguridad_inform%C3%A1tica). |
-| [Tiny Core Linux](http://tinycorelinux.net/) | 16.0 | Perfecto para entender la estructura interna de [Linux](https://es.wikipedia.org/wiki/GNU/Linux) y experimentar con sistemas extremadamente ligeros, desde cero. |
+| [Tiny Core Linux](http://tinycorelinux.net/) | 16.1 | Perfecto para entender la estructura interna de [Linux](https://es.wikipedia.org/wiki/GNU/Linux) y experimentar con sistemas extremadamente ligeros, desde cero. |
 
 ## Sistemas de Microsoft
 
@@ -39,7 +39,7 @@ La selección está pensada como referencia general para cualquier persona inter
 
 | Nombre | Versión | Descripción |
 | --- | :---: | --- |
-| [Windows VirtIO Drivers](https://pve.proxmox.com/wiki/Windows_VirtIO_Drivers) | 0.1.271-1 | Imagen ISO con [drivers](https://es.wikipedia.org/wiki/Controlador_de_dispositivo) VirtIO para [Windows](https://es.wikipedia.org/wiki/Microsoft_Windows), esenciales para el correcto funcionamiento de dispositivos virtualizados (como discos y adaptadores de red) en entornos KVM/QEMU. Mejoran notablemente el rendimiento y la compatibilidad. |
+| [Windows VirtIO Drivers](https://pve.proxmox.com/wiki/Windows_VirtIO_Drivers) | 0.1.271-1 | [Imagen ISO](https://es.wikipedia.org/wiki/Imagen_ISO) con [drivers](https://es.wikipedia.org/wiki/Controlador_de_dispositivo) VirtIO para [Windows](https://es.wikipedia.org/wiki/Microsoft_Windows), esenciales para el correcto funcionamiento de dispositivos virtualizados (como discos y adaptadores de red) en entornos KVM/QEMU. Mejoran notablemente el rendimiento y la compatibilidad. |
 
 ## Entornos de red
 
@@ -73,9 +73,8 @@ La selección está pensada como referencia general para cualquier persona inter
 
 ## Nota importante
 
-Las versiones incluidas en esta lista corresponden a las más actuales disponibles a fecha de 15 de junio de 2025.
+Las versiones incluidas en esta lista corresponden a las más actuales disponibles a fecha de 4 de julio de 2025.
 
 Dado que los proyectos de [software](https://es.wikipedia.org/wiki/Software) evolucionan constantemente, tanto las versiones como la selección de [ISOs](https://es.wikipedia.org/wiki/Imagen_ISO) aquí recogidas pueden cambiar con el tiempo. Esta guía se actualizará periódicamente para reflejar las novedades más relevantes.
 
 Se recomienda a los usuarios consultar siempre las páginas oficiales de cada proyecto para acceder a la información y descargas más recientes, especialmente en contextos de aprendizaje y prácticas educativas.
-
