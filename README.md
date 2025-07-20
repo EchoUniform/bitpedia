@@ -13,5 +13,5 @@ Bitpedia es un bloc de notas abierto sobre informática: teoría, laboratorio, a
 5. Programación
 6. Bases de datos
 7. Tutoriales paso a paso
-8. Recursos y enlaces útiles
-
+8. [Recursos y enlaces útiles](08_recursos/)
+   - [Recursos y utilidades sobre DNS](08_recursos/recursos_dns.md)
